@@ -1,8 +1,6 @@
-/* eslint-disable no-unused-vars */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* eslint-disable no-unused-vars */
 
 .App {
   text-align: center;
